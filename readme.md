@@ -5,10 +5,15 @@
 
 阅读官方文档可能会让你了解到更多:
 
-
 [微信支付JSAPI支付开发步骤](https://pay.weixin.qq.com/wiki/doc/api/jsapi.php?chapter=7_3)
 
 [微信网页授权](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1421140842)
+
+这里比较全的收集了WeixinJSBridge的功能，其中大部分不能用了
+
+[查看API](http://mmlike.sinaapp.com/)
+
+---
 
 阅读此文档时默认您已对接好微信登录,若你还没有做好微信登录,请参考上面官方文档:微信网页授权
 
