@@ -1,6 +1,6 @@
 {
   "name": "wx-jsbridge-wxpay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "微信支付-内置浏览器api发起微信支付\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[B",
   "main": "index.js",
   "scripts": {
